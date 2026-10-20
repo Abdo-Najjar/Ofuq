@@ -4,3 +4,5 @@ databaseconfig = {
     'password' :'123'
 }
 
+
+print(databaseconfig)
